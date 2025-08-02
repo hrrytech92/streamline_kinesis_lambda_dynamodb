@@ -10,8 +10,6 @@
 - **DynamoDB**: Serves as the persistent storage layer for processed events.
 - **CloudWatch Logs**: Monitors the Lambda execution for debugging and observability.
 
----
-
 ## 🛠 Technologies Used
 
 - **Python** for simulation and Lambda function
