@@ -1,4 +1,4 @@
-# Streamline with Kinesis + Lambda + DynamoDB
+# Streamline Real-Time Data Processing with Kinesis + Lambda + DynamoDB
 
 # 🧪 Use Case
 
