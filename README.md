@@ -1,6 +1,6 @@
 # Streamline with Kinesis + Lambda + DynamoDB
 
-## 🧪 Use Case
+# 🧪 Use Case
 
 > This project can be adapted for use cases such as real-time analytics, clickstream tracking, IoT event ingestion, or log processing pipelines.
 
@@ -10,7 +10,7 @@
 - **DynamoDB**: Serves as the persistent storage layer for processed events.
 - **CloudWatch Logs**: Monitors the Lambda execution for debugging and observability.
 
-## 🛠 Technologies Used
+# 🛠 Technologies Used
 
 - **Python** for simulation and Lambda function
 - **AWS Kinesis** for real-time data ingestion
@@ -19,7 +19,7 @@
 - **AWS CloudWatch** for monitoring and logs
 
 
-## 🖼 Workflow Diagrams
+# 🖼 Workflow Diagrams
 
 Visual representations of the end-to-end system:
 
