@@ -1,4 +1,4 @@
-# streamline_kinesis_lambda_dynamodb
+# Streamline with Kinesis + Lambda + DynamoDB
 
 ## 🧪 Use Case
 
@@ -20,9 +20,6 @@
 - **AWS DynamoDB** for persistent event storage
 - **AWS CloudWatch** for monitoring and logs
 
-**Simulated Python Events → Kinesis Data Stream → AWS Lambda → DynamoDB**  
-                            ↘︎  
-                             CloudWatch Logs (for debugging/monitoring)
 
 ## 🖼 Workflow Diagrams
 
@@ -33,9 +30,6 @@ Visual representations of the end-to-end system:
 
 ### Detailed Flow
 ![Detailed Workflow](./assets/detailed_workflow.png)
-
-### Lambda Trigger Architecture
-![Lambda Trigger](./assets/workflow_1.png)
 
 ### Full System Diagram
 ![Full System](./assets/workflow-diagram.png)
