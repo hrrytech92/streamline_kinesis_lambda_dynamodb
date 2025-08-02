@@ -29,7 +29,9 @@ Visual representations of the end-to-end system:
 ![Simple Workflow](./assets/simple_workflow.png)
 
 ### Detailed Flow
-![Detailed Workflow](./assets/detailed_workflow.png)
+<p align="center">
+  <img src="./assets/detailed_workflow.png" alt="Detailed Workflow">
+</p>
 
 ### Full System Diagram
 ![Full System](./assets/workflow-diagram.png)
